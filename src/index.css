@@ -11,19 +11,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
-.iframe-m {
-  float: left;
-  width: 460px;
-}
-
-.iframe-m h4 {
-  text-align: center;
-}
-
-.iframe-m iframe {
-  width: 460px;
-  height: 360px;
-  border: 2px solid #2A2A2A;
-  border-radius: 2px;
-}
